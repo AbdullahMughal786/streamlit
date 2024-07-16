@@ -1,0 +1,1 @@
+mult = lambda a , b : a * b

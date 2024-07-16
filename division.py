@@ -1,0 +1,1 @@
+div = lambda a , b : round(a / b,3)
